@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emmatetteh15
-- 👀 I’m interested in Hardware and Website development 
+- 👀 I’m interested in Arduino and Website development 
 - 🌱 I’m currently learning HTML, CSS,React and JavaScript
 
 
